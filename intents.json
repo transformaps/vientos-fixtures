@@ -1,0 +1,961 @@
+[{
+    "title": "Materiales de jardinería ",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d6fda721cdf52d01c3827a"]
+}, {
+    "title": "Productos libre de agentes químicos y transgénicos ",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d6fda721cdf52d01c3827a"]
+}, {
+    "title": "Talleres sobre huertos urbanos",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d6fda721cdf52d01c3827a"]
+}, {
+    "title": "Espacio para eventos culturales ",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57d6fda721cdf52d01c3827a"]
+}, {
+    "title": "Productos orgánicos, artesanales y comunitarios  ",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d7081221cdf52d01c3827c"]
+}, {
+    "title": "Alimentos vegetarianos y veganos",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d7081221cdf52d01c3827c"]
+}, {
+    "title": "Talleres sobre  autogestión ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d7081221cdf52d01c3827c"]
+}, {
+    "title": "Clases de yoga",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d7081221cdf52d01c3827c"]
+}, {
+    "title": "Música en vivo ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d7081221cdf52d01c3827c"]
+}, {
+    "title": "Educación sobre composta",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57d307877ea9e4f2228f27c7"]
+}, {
+    "title": "Talleres sobre la seguridad alimentaria",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d307877ea9e4f2228f27c7"]
+}, {
+    "title": "Comida vegetariana y vegana ",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d307877ea9e4f2228f27c7"]
+}, {
+    "title": "Espacio para eventos",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57d307877ea9e4f2228f27c7"]
+}, {
+    "title": "Productos artesanales",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d6f21521cdf52d01c38277"]
+}, {
+    "title": "Clases en la producción de confitura",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d6f21521cdf52d01c38277"]
+}, {
+    "title": "Espacio para events",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57d6f21521cdf52d01c38277"]
+}, {
+    "title": "Vínculos con productores locales ",
+    "collaborationType": "link",
+    "direction": "offer",
+    "projects": ["57d6f21521cdf52d01c38277"]
+}, {
+    "title": "Talleres sobre arte y cultura",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57cefece9abd6ced128ba659"]
+}, {
+    "title": "Materiales educativos ",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57cefece9abd6ced128ba659"]
+}, {
+    "title": "Voluntariado - trabajo comunitario",
+    "collaborationType": "volunteer",
+    "direction": "offer",
+    "projects": ["57cefece9abd6ced128ba659"]
+}, {
+    "title": "Máquina de impresión común",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["56281f05b82163c71dea5fad"]
+}, {
+    "title": "Edición de fanzines",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["56281f05b82163c71dea5fad"]
+}, {
+    "title": "Foro para diversos eventos y espacio de exposición",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["56281f05b82163c71dea5fad"]
+}, {
+    "title": "Comedor comunitario y vegano",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["56281f05b82163c71dea5fad"]
+}, {
+    "title": "Comida Vegana",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["5774416b550e9f302caf746c"]
+}, {
+    "title": "Talleres de autodefensa ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["5774416b550e9f302caf746c"]
+}, {
+    "title": "Espacio para eventos feministas",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["5774416b550e9f302caf746c"]
+}, {
+    "title": "Taller de arte para jovenes en situación de calle",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["576bef3c550e9f302caf7469"]
+}, {
+    "title": "Paquete de pixzas para eventos ",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["576bef3c550e9f302caf7469"]
+}, {
+    "title": "horno",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["576bef3c550e9f302caf7469"]
+}, {
+    "title": "Copas menstruales ",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d86a822e1fa9593744c3f8"]
+}, {
+    "title": "Talleres sobre la salud femenina ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d86a822e1fa9593744c3f8"]
+}, {
+    "title": "Información sobre la salud femenina ",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57d86a822e1fa9593744c3f8"]
+}, {
+    "title": "Toallas ecológicas ",
+    "collaborationType": "art",
+    "direction": "offer",
+    "projects": ["57d86a822e1fa9593744c3f8"]
+}, {
+    "title": "Eventos de arte y cultura",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d308297ea9e4f2228f27c9"]
+}, {
+    "title": "Arte",
+    "collaborationType": "art",
+    "direction": "offer",
+    "projects": ["57d308297ea9e4f2228f27c9"]
+}, {
+    "title": "Espacio para eventos de arte ",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57d308297ea9e4f2228f27c9"]
+}, {
+    "title": "Difusión de proyectos ",
+    "collaborationType": "spread",
+    "direction": "offer",
+    "projects": ["57d308297ea9e4f2228f27c9"]
+}, {
+    "title": "taller de UX",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57d70df9d8a47e7d507f7fdb"]
+}, {
+    "title": "Silla de oficina",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d70df9d8a47e7d507f7fdb"]
+}, {
+    "title": "Herramienta de vinculaciòn",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d70df9d8a47e7d507f7fdb"]
+}, {
+    "title": "asesoría cooperativas",
+    "collaborationType": "service",
+    "direction": "offer",
+    "projects": ["57d70df9d8a47e7d507f7fdb"]
+}, {
+    "title": "Colección de lecturas sobre la autonomía ",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["566486c4a8aed093091c58bb"]
+}, {
+    "title": "Eventos de lectura libre",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["566486c4a8aed093091c58bb"]
+}, {
+    "title": "Eventos de lectura de poesía ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d30b227ea9e4f2228f27cb"]
+}, {
+    "title": "Talleres de poesía feminista ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d30b227ea9e4f2228f27cb"]
+}, {
+    "title": "Poesía ",
+    "collaborationType": "art",
+    "direction": "offer",
+    "projects": ["57d30b227ea9e4f2228f27cb"]
+}, {
+    "title": "Coaching de Salud Integral",
+    "collaborationType": "service",
+    "direction": "offer",
+    "projects": ["5772bbd9550e9f302caf746a"]
+}, {
+    "title": "Taller de Dieta Sana",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["5772bbd9550e9f302caf746a"]
+}, {
+    "title": "Café orgánico",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d301517ea9e4f2228f27bd"]
+}, {
+    "title": "Vínculos con productores locales",
+    "collaborationType": "link",
+    "direction": "offer",
+    "projects": ["57d301517ea9e4f2228f27bd"]
+}, {
+    "title": "Talleres en las comunidades productoras",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d301517ea9e4f2228f27bd"]
+}, {
+    "title": "Lechuga hidropónica urbana",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57cefaa59abd6ced128ba656"]
+}, {
+    "title": "Información sobre las técnicas de cultivo hidropónicas",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57cefaa59abd6ced128ba656"]
+}, {
+    "title": "Servicio de entrega",
+    "collaborationType": "service",
+    "direction": "offer",
+    "projects": ["57cefaa59abd6ced128ba656"]
+}, {
+    "title": "Espacio para eventos",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57aa585543b848ad4b9b3705"]
+}, {
+    "title": "Director/a de Programas",
+    "collaborationType": "job",
+    "direction": "offer",
+    "projects": ["57aa585543b848ad4b9b3705"]
+}, {
+    "title": "Rifa de pituras",
+    "collaborationType": "funding",
+    "direction": "offer",
+    "projects": ["57aa585543b848ad4b9b3705"]
+}, {
+    "title": "Productos artesanales producidos en México ",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57ceffce4a051e70437d4c71"]
+}, {
+    "title": "Arte local",
+    "collaborationType": "art",
+    "direction": "offer",
+    "projects": ["57ceffce4a051e70437d4c71"]
+}, {
+    "title": "Talleres",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57ceffce4a051e70437d4c71"]
+}, {
+    "title": "Recomendaciones de productos locales ",
+    "collaborationType": "link",
+    "direction": "offer",
+    "projects": ["57ceffce4a051e70437d4c71"]
+}, {
+    "title": "Biblioteca pública con libros de arte",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d30c627ea9e4f2228f27cd"]
+}, {
+    "title": "Espacio para leer libros",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57d30c627ea9e4f2228f27cd"]
+}, {
+    "title": "Espacio para eventos comunitarios",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57d30c627ea9e4f2228f27cd"]
+}, {
+    "title": "Voluntari@s en la biblioteca",
+    "collaborationType": "volunteer",
+    "direction": "offer",
+    "projects": ["57d30c627ea9e4f2228f27cd"]
+}, {
+    "title": "Préstamo de libros",
+    "collaborationType": "service",
+    "direction": "offer",
+    "projects": ["57d30c627ea9e4f2228f27cd"]
+}, {
+    "title": "Productos de pan integral",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d746ef2e1fa9593744c3e3"]
+}, {
+    "title": "Espacio para eventos",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57d746ef2e1fa9593744c3e3"]
+}, {
+    "title": "Promoción de proyectos ",
+    "collaborationType": "spread",
+    "direction": "offer",
+    "projects": ["57d746ef2e1fa9593744c3e3"]
+}, {
+    "title": "Servicio de entrega",
+    "collaborationType": "service",
+    "direction": "offer",
+    "projects": ["57d746ef2e1fa9593744c3e3"]
+}, {
+    "title": "Panader@",
+    "collaborationType": "job",
+    "direction": "offer",
+    "projects": ["57d746ef2e1fa9593744c3e3"]
+}, {
+    "title": "Copa menstrual y toallas femeninas",
+    "collaborationType": "product",
+    "direction": "offer",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "Talleres ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "Voluntariado para organizar eventos ",
+    "collaborationType": "volunteer",
+    "direction": "offer",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "Información sobre sostenibilidad y ecofeminismo",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "asdasd",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "asdasd",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "arte",
+    "collaborationType": "art",
+    "direction": "offer",
+    "projects": ["57cf00bd4a051e70437d4c72"]
+}, {
+    "title": "Taller de arte",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57cf00bd4a051e70437d4c72"]
+}, {
+    "title": "Correr en paisajes naturales",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d302a17ea9e4f2228f27bf"]
+}, {
+    "title": "Información sobre rutas y caminos",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57d302a17ea9e4f2228f27bf"]
+}, {
+    "title": "Vínculos con otros corredores ",
+    "collaborationType": "link",
+    "direction": "offer",
+    "projects": ["57d302a17ea9e4f2228f27bf"]
+}, {
+    "title": "Talleres de arte y cultura para niñ@s y jóvenes ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d30dd37ea9e4f2228f27cf"]
+}, {
+    "title": "Materiales de arte",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d30dd37ea9e4f2228f27cf"]
+}, {
+    "title": "Eventos culturales - obras, danza etc. ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d30dd37ea9e4f2228f27cf"]
+}, {
+    "title": "Vínculos con escuelas y centros comunitarios ",
+    "collaborationType": "link",
+    "direction": "offer",
+    "projects": ["57d30dd37ea9e4f2228f27cf"]
+}, {
+    "title": "Coordinador@ del Proyecto",
+    "collaborationType": "job",
+    "direction": "offer",
+    "projects": ["57d30dd37ea9e4f2228f27cf"]
+}, {
+    "title": "Uso de taller y herramientas",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["56282befb82163c71dea5fd4"]
+}, {
+    "title": "Capacitación mecánica de bicicletas",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["56282befb82163c71dea5fd4"]
+}, {
+    "title": "Reparación, personalización y adaptaciones de bicicletas",
+    "collaborationType": "service",
+    "direction": "offer",
+    "projects": ["56282befb82163c71dea5fd4"]
+}, {
+    "title": "Construcción de bicimáquinas",
+    "collaborationType": "service",
+    "direction": "offer",
+    "projects": ["56282befb82163c71dea5fd4"]
+}, {
+    "title": "Herramientas de comunicación gráfica",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57cef6616302e77321e5fe15"]
+}, {
+    "title": "Difusión de proyectos ",
+    "collaborationType": "spread",
+    "direction": "offer",
+    "projects": ["57cef6616302e77321e5fe15"]
+}, {
+    "title": "Software de diseño web",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57cef6616302e77321e5fe15"]
+}, {
+    "title": "Información sobre comunicación y promoción ",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57cef6616302e77321e5fe15"]
+}, {
+    "title": "Eventos de arte ",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d305117ea9e4f2228f27c3"]
+}, {
+    "title": "Espacio para arte y eventos comunitarios",
+    "collaborationType": "space",
+    "direction": "offer",
+    "projects": ["57d305117ea9e4f2228f27c3"]
+}, {
+    "title": "Vínculos con artistas locales ",
+    "collaborationType": "link",
+    "direction": "offer",
+    "projects": ["57d305117ea9e4f2228f27c3"]
+}, {
+    "title": "Galería de arte",
+    "collaborationType": "art",
+    "direction": "offer",
+    "projects": ["57d305117ea9e4f2228f27c3"]
+}, {
+    "title": "Documentalista",
+    "collaborationType": "job",
+    "direction": "offer",
+    "projects": ["57d304247ea9e4f2228f27c1"]
+}, {
+    "title": "Conocimiento sobre la producción de cine y video ",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57d304247ea9e4f2228f27c1"]
+}, {
+    "title": "Materiales de grabación y edición de vídeo ",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d304247ea9e4f2228f27c1"]
+}, {
+    "title": "Talleres de edición de vídeo",
+    "collaborationType": "material",
+    "direction": "offer",
+    "projects": ["57d304247ea9e4f2228f27c1"]
+}, {
+    "title": "Talleres de producción artesanal y salud",
+    "collaborationType": "event",
+    "direction": "offer",
+    "projects": ["57d6e07bb0875d45704c7401"]
+}, {
+    "title": "Información sobre equidad de género",
+    "collaborationType": "knowledge",
+    "direction": "offer",
+    "projects": ["57d6e07bb0875d45704c7401"]
+}, {
+    "title": "Arte ",
+    "collaborationType": "art",
+    "direction": "offer",
+    "projects": ["57d6e07bb0875d45704c7401"]
+}, {
+    "title": "Servicio de asesoramiento",
+    "collaborationType": "service",
+    "direction": "offer",
+    "projects": ["57d6e07bb0875d45704c7401"]
+}, {
+    "title": "Productores de semillas ",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["57d6fda721cdf52d01c3827a"]
+}, {
+    "title": "Voluntari@ para los huertos urbanos ",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57d6fda721cdf52d01c3827a"]
+}, {
+    "title": "Servicio de transporte",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["57d6fda721cdf52d01c3827a"]
+}, {
+    "title": "Información sobre las técnicas de cultivo hidropónicas",
+    "collaborationType": "knowledge",
+    "direction": "request",
+    "projects": ["57d6fda721cdf52d01c3827a"]
+}, {
+    "title": "Espacio para eventos",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57d7081221cdf52d01c3827c"]
+}, {
+    "title": "Maestr@s de yoga",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57d7081221cdf52d01c3827c"]
+}, {
+    "title": "Vendedoras de productos locales ",
+    "collaborationType": "product",
+    "direction": "request",
+    "projects": ["57d7081221cdf52d01c3827c"]
+}, {
+    "title": "Diseñador web",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57d307877ea9e4f2228f27c7"]
+}, {
+    "title": "Arte ",
+    "collaborationType": "art",
+    "direction": "request",
+    "projects": ["57d307877ea9e4f2228f27c7"]
+}, {
+    "title": "Servicio de transporte",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["57d6f21521cdf52d01c38277"]
+}, {
+    "title": "Vínculos con otros vendedores artesanales ",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["57d6f21521cdf52d01c38277"]
+}, {
+    "title": "Promoción de proyecto ",
+    "collaborationType": "spread",
+    "direction": "request",
+    "projects": ["57d6f21521cdf52d01c38277"]
+}, {
+    "title": "Diseñador web",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["56281f05b82163c71dea5fad"]
+}, {
+    "title": "Provedor de alimentos orgánicos",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["56281f05b82163c71dea5fad"]
+}, {
+    "title": "Experto en huertos urbanos",
+    "collaborationType": "knowledge",
+    "direction": "request",
+    "projects": ["56281f05b82163c71dea5fad"]
+}, {
+    "title": "Imprenta aliada",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["5774416b550e9f302caf746c"]
+}, {
+    "title": "Experta en huertos urbanos",
+    "collaborationType": "knowledge",
+    "direction": "request",
+    "projects": ["5774416b550e9f302caf746c"]
+}, {
+    "title": "Proveedor de queso orgánico",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["576bef3c550e9f302caf7469"]
+}, {
+    "title": "Empaques Biodegradables",
+    "collaborationType": "product",
+    "direction": "request",
+    "projects": ["576bef3c550e9f302caf7469"]
+}, {
+    "title": "Ayuda con sitio web",
+    "collaborationType": "knowledge",
+    "direction": "request",
+    "projects": ["576bef3c550e9f302caf7469"]
+}, {
+    "title": "repartidor",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["576bef3c550e9f302caf7469"]
+}, {
+    "title": "Espacio para eventos",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57d86a822e1fa9593744c3f8"]
+}, {
+    "title": "Difusión de proyectos en redes sociales",
+    "collaborationType": "spread",
+    "direction": "request",
+    "projects": ["57d86a822e1fa9593744c3f8"]
+}, {
+    "title": "Arte",
+    "collaborationType": "art",
+    "direction": "request",
+    "projects": ["57d86a822e1fa9593744c3f8"]
+}, {
+    "title": "Arte",
+    "collaborationType": "art",
+    "direction": "request",
+    "projects": ["57d308297ea9e4f2228f27c9"]
+}, {
+    "title": "Diseñador web",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57d308297ea9e4f2228f27c9"]
+}, {
+    "title": "contacto con imprenta",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["57d70df9d8a47e7d507f7fdb"]
+}, {
+    "title": "espacio de trabajo",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57d70df9d8a47e7d507f7fdb"]
+}, {
+    "title": "Diseñador web",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["566486c4a8aed093091c58bb"]
+}, {
+    "title": "Una impresora ",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["566486c4a8aed093091c58bb"]
+}, {
+    "title": "Escritos",
+    "collaborationType": "product",
+    "direction": "request",
+    "projects": ["566486c4a8aed093091c58bb"]
+}, {
+    "title": "Un traductor/a (español-inglés)",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["566486c4a8aed093091c58bb"]
+}, {
+    "title": "Espacio para lecturas",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["566486c4a8aed093091c58bb"]
+}, {
+    "title": "Voluntari@ para organizar eventos ",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57d30b227ea9e4f2228f27cb"]
+}, {
+    "title": "Espacio para eventos",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57d30b227ea9e4f2228f27cb"]
+}, {
+    "title": "Vínculos con poetas mujeres ",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["57d30b227ea9e4f2228f27cb"]
+}, {
+    "title": "Sillas ",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57d30b227ea9e4f2228f27cb"]
+}, {
+    "title": "Proveedor de Espirulina Orgánica",
+    "collaborationType": "product",
+    "direction": "request",
+    "projects": ["5772bbd9550e9f302caf746a"]
+}, {
+    "title": "Nutriólogo dietas crudiveganas",
+    "collaborationType": "job",
+    "direction": "request",
+    "projects": ["5772bbd9550e9f302caf746a"]
+}, {
+    "title": "Servicio de transporte",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["57d301517ea9e4f2228f27bd"]
+}, {
+    "title": "Vendedor de café",
+    "collaborationType": "job",
+    "direction": "request",
+    "projects": ["57d301517ea9e4f2228f27bd"]
+}, {
+    "title": "azotea > 400m2",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57cefaa59abd6ced128ba656"]
+}, {
+    "title": "Apoyo con el cultivo de lechugas ",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57cefaa59abd6ced128ba656"]
+}, {
+    "title": "Productos veganos",
+    "collaborationType": "product",
+    "direction": "request",
+    "projects": ["57aa585543b848ad4b9b3705"]
+}, {
+    "title": "Servicios de reparación de computadoras",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["57aa585543b848ad4b9b3705"]
+}, {
+    "title": "Tequio para construir un invernadero en la azotea",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57aa585543b848ad4b9b3705"]
+}, {
+    "title": "mesas",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57aa585543b848ad4b9b3705"]
+}, {
+    "title": "asdlaksjd",
+    "collaborationType": "job",
+    "direction": "request",
+    "projects": ["57aa585543b848ad4b9b3705"]
+}, {
+    "title": "Varios",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57ceffce4a051e70437d4c71"]
+}, {
+    "title": "Espacio para vender ",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57ceffce4a051e70437d4c71"]
+}, {
+    "title": "Vínculos con productores ",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["57ceffce4a051e70437d4c71"]
+}, {
+    "title": "Difusión de proyecto",
+    "collaborationType": "spread",
+    "direction": "request",
+    "projects": ["57ceffce4a051e70437d4c71"]
+}, {
+    "title": "Libros de arte",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57d30c627ea9e4f2228f27cd"]
+}, {
+    "title": "Arte para la biblioteca",
+    "collaborationType": "art",
+    "direction": "request",
+    "projects": ["57d30c627ea9e4f2228f27cd"]
+}, {
+    "title": "Vínculos con otras bibliotecas",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["57d30c627ea9e4f2228f27cd"]
+}, {
+    "title": "Arte para el espacio",
+    "collaborationType": "art",
+    "direction": "request",
+    "projects": ["57d746ef2e1fa9593744c3e3"]
+}, {
+    "title": "Panadero",
+    "collaborationType": "job",
+    "direction": "request",
+    "projects": ["57d746ef2e1fa9593744c3e3"]
+}, {
+    "title": "Voluntari@ para organizar eventos",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "Espacio para talleres",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "Sillas",
+    "collaborationType": "product",
+    "direction": "request",
+    "projects": ["57d73f4f2e1fa9593744c3dd"]
+}, {
+    "title": "pintura ",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57cf00bd4a051e70437d4c72"]
+}, {
+    "title": "Espacio para talleres",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57cf00bd4a051e70437d4c72"]
+}, {
+    "title": "Difusión de proyecto",
+    "collaborationType": "spread",
+    "direction": "request",
+    "projects": ["57cf00bd4a051e70437d4c72"]
+}, {
+    "title": "Materiales de arte",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57cf00bd4a051e70437d4c72"]
+}, {
+    "title": "Productores de documentales",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["57d302a17ea9e4f2228f27bf"]
+}, {
+    "title": "Sugerencias para nuevas rutas y trails ",
+    "collaborationType": "knowledge",
+    "direction": "request",
+    "projects": ["57d302a17ea9e4f2228f27bf"]
+}, {
+    "title": "Servicio de transporte",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["57d302a17ea9e4f2228f27bf"]
+}, {
+    "title": "Materiales de arte ",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57d30dd37ea9e4f2228f27cf"]
+}, {
+    "title": "Facilidades para actividades ",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["57d30dd37ea9e4f2228f27cf"]
+}, {
+    "title": "Sillas y mesas",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57d30dd37ea9e4f2228f27cf"]
+}, {
+    "title": "Herramientas",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["56282befb82163c71dea5fd4"]
+}, {
+    "title": "Voluntarios",
+    "collaborationType": "volunteer",
+    "direction": "request",
+    "projects": ["56282befb82163c71dea5fd4"]
+}, {
+    "title": "Espacio para dar talleres",
+    "collaborationType": "space",
+    "direction": "request",
+    "projects": ["56282befb82163c71dea5fd4"]
+}, {
+    "title": "Capacitación en administración y cuestiones de género",
+    "collaborationType": "knowledge",
+    "direction": "request",
+    "projects": ["56282befb82163c71dea5fd4"]
+}, {
+    "title": "Vínculos con ONGs y cooperativas ",
+    "collaborationType": "link",
+    "direction": "request",
+    "projects": ["57cef6616302e77321e5fe15"]
+}, {
+    "title": "Servicio de transporte ",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["57cef6616302e77321e5fe15"]
+}, {
+    "title": "computadora",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57cef6616302e77321e5fe15"]
+}, {
+    "title": "Buscamos arte ",
+    "collaborationType": "art",
+    "direction": "request",
+    "projects": ["57d305117ea9e4f2228f27c3"]
+}, {
+    "title": "Servicio de limpieza ",
+    "collaborationType": "service",
+    "direction": "request",
+    "projects": ["57d305117ea9e4f2228f27c3"]
+}, {
+    "title": "Promoción de eventos ",
+    "collaborationType": "spread",
+    "direction": "request",
+    "projects": ["57d305117ea9e4f2228f27c3"]
+}, {
+    "title": "Ideas para documentales o películas ",
+    "collaborationType": "knowledge",
+    "direction": "request",
+    "projects": ["57d304247ea9e4f2228f27c1"]
+}, {
+    "title": "Difusión de proyecto",
+    "collaborationType": "spread",
+    "direction": "request",
+    "projects": ["57d304247ea9e4f2228f27c1"]
+}, {
+    "title": "Material de oficina",
+    "collaborationType": "material",
+    "direction": "request",
+    "projects": ["57d6e07bb0875d45704c7401"]
+}, {
+    "title": "Difusión de proyecto",
+    "collaborationType": "spread",
+    "direction": "request",
+    "projects": ["57d6e07bb0875d45704c7401"]
+}]
