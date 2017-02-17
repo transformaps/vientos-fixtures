@@ -1,4 +1,5 @@
 module.exports = {
+  people: require('./people.json'),
   projects: require('./projects.json'),
-  people: require('./people.json')
+  intents: require('./intents.json')
 }
